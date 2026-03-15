@@ -18,3 +18,6 @@ class LinearRegression:
 
     def predict(self, X):
         return self.w * X + self.b
+    
+    
+    
